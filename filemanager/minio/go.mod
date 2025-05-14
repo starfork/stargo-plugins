@@ -4,7 +4,7 @@ go 1.24.2
 
 require (
 	github.com/minio/minio-go/v7 v7.0.91
-	github.com/starfork/stargo v0.3.0
+	github.com/starfork/stargo v0.3.1
 )
 
 require (

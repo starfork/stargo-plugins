@@ -4,7 +4,7 @@ go 1.24.2
 
 require (
 	github.com/influxdata/influxdb-client-go/v2 v2.14.0
-	github.com/starfork/stargo v0.3.0
+	github.com/starfork/stargo v0.3.1
 )
 
 require (
