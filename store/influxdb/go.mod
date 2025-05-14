@@ -1,4 +1,4 @@
-module github.com/starfork/stargo-logger/store/influxdb
+module github.com/starfork/stargo-plugins/store/influxdb
 
 go 1.24.2
 
