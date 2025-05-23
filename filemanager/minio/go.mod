@@ -1,4 +1,4 @@
-module github.com/starfork/stargo-logger/filemanager/minio
+module github.com/starfork/stargo-plugins/filemanager/minio
 
 go 1.24.2
 
