@@ -1,0 +1,4 @@
+github.com/rqlite/gorqlite v0.0.0-20250609141355-ac86a4a1c9a8 h1:BoxiqWvhprOB2isgM59s8wkgKwAoyQH66Twfmof41oE=
+github.com/rqlite/gorqlite v0.0.0-20250609141355-ac86a4a1c9a8/go.mod h1:xF/KoXmrRyahPfo5L7Szb5cAAUl53dMWBh9cMruGEZg=
+github.com/starfork/stargo v0.3.1 h1:Km8Q9mnvMQ1me2LkTSv2SHIVO+NLsHCMolRrCWate9U=
+github.com/starfork/stargo v0.3.1/go.mod h1:20qtP/h0nGuvaE53km/X5eYwpmIH3/SvNxb52lOkWBw=
